@@ -67,5 +67,3 @@
 We are excited to present ReadSmart as a tool to empower young readers and build confidence through AI-driven education. Thank you for considering our project!
 
 ---
-
-Feel free to let me know if you’d like to adjust any part or add more details!
